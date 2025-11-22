@@ -112,7 +112,7 @@ eas build --profile preview --platform android
 
 ## ⚙️ Variables de Entorno
 
-### 📱 `.env.local` (Expo)
+### 📱 `.env.local`
 ```env
 EXPO_PUBLIC_API_BASE_KEY=SANTAANA_API_BASE_KEY
 EXPO_PUBLIC_ACCESS_KEY=SANTAANA_ACCESS_KEY
@@ -165,7 +165,7 @@ src/                      # Lógica principal del proyecto
 
 ## 👨‍💻 Autor
 
-**Diego Alexander Hernández Silvestre**  
+**Diego Alexander Hernández Silvestre | Carnet: 21270**  
 Universidad del Valle de Guatemala – Trabajo de Graduación 2025.
 
 ---
