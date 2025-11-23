@@ -172,12 +172,6 @@ Universidad del Valle de Guatemala – Trabajo de Graduación 2025.
 
 ---
 
-## 📄 Licencia
-
-MIT © 2025 Ingenio Santa Ana – UVG
-
----
-
 ## 🔑 Credenciales requeridas para EAS
 
 Para poder generar un **Dev Client** o un **APK** mediante EAS Build, es necesario contar con:
