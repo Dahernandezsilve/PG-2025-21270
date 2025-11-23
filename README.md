@@ -5,7 +5,10 @@ Proyecto de Graduación 2025 - Carnet: 21270
 
 ## 🎥 Video Demo
 
-https://github.com/Dahernandezsilve/PG-2025-21270/blob/main/demo/demo.mp4
+Puedes ver el video demostrativo aquí:
+
+▶️ **[demo.mp4](./demo/demo.mp4)**  
+(4:57 min · 1080p · 81 MB · H.264)
 
 Aplicación móvil del **trabajo de graduación en modalidad Trabajo Profesional “Recopilación, visualización y análisis de formularios adaptables en campos de acción agrícola”**, desarrollada para el **Ingenio Santa Ana**.
 
