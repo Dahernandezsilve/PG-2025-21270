@@ -174,10 +174,8 @@ Universidad del Valle de Guatemala – Trabajo de Graduación 2025.
 
 ## 🎥 Video Demo
 
-Puedes ver el video demostrativo aquí:
-
-▶️ **[demo.mp4](./demo/demo.mp4)**  
-(4:57 min · 1080p · 81 MB · H.264)
+Puedes ver el video demostrativo aquí: ▶️ **[demo.mp4](./demo/demo.mp4)**  
+                                        (4:57 min · 1080p · 81 MB · H.264)
 
 # 📄 Documentación
 
