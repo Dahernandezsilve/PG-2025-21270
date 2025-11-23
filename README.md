@@ -89,7 +89,7 @@ yarn ios
 
 Este proyecto utiliza **librerías nativas** (Reanimated, Secure Store, Camera, SQLite, Keyboard Controller, etc.), por lo que **NO puede ejecutarse en Expo Go**.
 
-Es necesario usar un **Dev Client personalizado**, que incluye todos los módulos nativos compilados específicamente para esta app.
+Es necesario usar un **Dev Client personalizado**, que incluye todos los módulos nativos compilados específicamente para esta app. Para ello se incluye un dev-client móvil: el archivo `src/devClient/devClient.zip` contiene el dev-client utilizado (comprimido para poder subirlo al repositorio). Se puede utilizar directamente para trabajar con la app si se prefiere evitar compilar un propio dev-client.
 
 ### 🔧 Generar un Dev Client (recomendado para desarrollo + iniciar el proyecto)
 ```bash
@@ -140,6 +140,8 @@ app/                      # Rutas manejadas por Expo Router
 assets/                   # Recursos estáticos
  ├─ fonts/                # Fuentes personalizadas
  └─ images/               # Imágenes, íconos y logos
+
+devClient/                # Instalador Android para probar el modo desarrollo nativo.
 
 src/                      # Lógica principal del proyecto
  ├─ api/                  # Cliente Axios, endpoints y servicios REST
