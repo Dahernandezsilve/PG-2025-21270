@@ -3,13 +3,6 @@ Proyecto de Graduación 2025 - Carnet: 21270
 
 ## 🌾 Santa Ana Mobile (React Native + Expo)
 
-## 🎥 Video Demo
-
-Puedes ver el video demostrativo aquí:
-
-▶️ **[demo.mp4](./demo/demo.mp4)**  
-(4:57 min · 1080p · 81 MB · H.264)
-
 Aplicación móvil del **trabajo de graduación en modalidad Trabajo Profesional “Recopilación, visualización y análisis de formularios adaptables en campos de acción agrícola”**, desarrollada para el **Ingenio Santa Ana**.
 
 Permite la **recolección de datos en campo** mediante formularios dinámicos, con soporte **offline**, validaciones locales y sincronización automática al restablecer conexión.
@@ -178,6 +171,17 @@ src/                      # Lógica principal del proyecto
 Universidad del Valle de Guatemala – Trabajo de Graduación 2025.
 
 ---
+
+## 🎥 Video Demo
+
+Puedes ver el video demostrativo aquí:
+
+▶️ **[demo.mp4](./demo/demo.mp4)**  
+(4:57 min · 1080p · 81 MB · H.264)
+
+# 📄 Documentación
+
+El informe final del proyecto se encuentra disponible en:
 
 ## 🔑 Credenciales requeridas para EAS
 
