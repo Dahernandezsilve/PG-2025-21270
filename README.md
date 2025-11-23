@@ -53,9 +53,14 @@ Permite la **recolección de datos en campo** mediante formularios dinámicos, c
 
 ## 📋 Requisitos Previos
 
-- Node.js v22.18.0  
-- Python 3.12.11  
-- Yarn 1.22.22  
+- **Git 2.30+** — necesario para clonar el repositorio.
+- **Node.js v22.18.0**
+- **Python 3.12.11**
+- **Yarn 1.22.22**
+- **Expo SDK 53** (incluido automáticamente en las dependencias del proyecto)
+- **Expo CLI**
+- **Android SDK + Platform-tools** — instalado a través de Android Studio; requerido para ejecutar `yarn android` y compilar Dev Clients.
+- **Cuenta de Expo** — necesaria para ejecutar builds remotas mediante EAS Build.
 
 ---
 
@@ -63,8 +68,8 @@ Permite la **recolección de datos en campo** mediante formularios dinámicos, c
 
 ### 1️⃣ Clonar
 ```bash
-git clone https://github.com/santa-ana-agroforms/SantaAna_Mobile.git
-cd SantaAna_Mobile
+git clone https://github.com/Dahernandezsilve/PG-2025-21270.git
+cd src
 ```
 
 ### 2️⃣ Instalar dependencias
