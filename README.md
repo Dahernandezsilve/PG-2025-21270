@@ -179,13 +179,19 @@ Universidad del Valle de Guatemala – Trabajo de Graduación 2025.
 
 ## 🎥 Video Demo
 
-Puedes ver el video demostrativo aquí: ▶️ **[demo.mp4](./demo/demo.mp4)**  
-                                        (4:57 min · 1080p · 81 MB · H.264)
+Puedes visualizar o descargar el video demostrativo del funcionamiento de la aplicación aquí:
+
+▶️ **[Ver Video Demo (.mp4)](./demo/demo.mp4)** *(Duración: 4:57 min · Calidad: 1080p · Peso: 81 MB)*
+
+---
 
 # 📄 Documentación
 
-El informe final del proyecto se encuentra disponible en:
+El informe final del proyecto, que incluye el análisis, diseño, manuales y resultados, se encuentra disponible en el siguiente enlace:
 
+📑 **[Leer Informe Final (PDF)](./docs/informe_final.pdf)**
+
+---
 ## 🔑 Credenciales requeridas para EAS
 
 Para poder generar un **Dev Client** o un **APK** mediante EAS Build, es necesario contar con:
